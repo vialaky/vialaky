@@ -27,6 +27,8 @@
 
 </div>
 
+I am a Python developer from Ukraine.
+
 - :telescope: I’m working in the civil service.
 
 - :seedling: Exploring Technical Content Writing.
