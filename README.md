@@ -14,3 +14,6 @@
   </a>
 </div>
 
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=vialaky&style=flat-square&color=blue" alt=""/>
+</div>
