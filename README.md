@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/dmytro-nikolaiev-491399136/">
+  <a href="https://www.linkedin.com/in/dmytro-nikolaiev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/dessmondmiles">
@@ -36,7 +36,7 @@ I am a Python developer from Ukraine.
 
 - :zap: In my free time, I solve problems on CodeAbbey, CodeWars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-nikolaiev-491399136/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-nikolaiev/)
 
 ---
 
