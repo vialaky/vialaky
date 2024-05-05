@@ -50,8 +50,10 @@ I am a Python developer from Ukraine.
 </div>
 
 ### :books: Packages and Libraries :
-- folium
-- geopy
+- asyncio
+- Beautiful Soup
+- Folium
+- GeoPy
 
 
 ---
