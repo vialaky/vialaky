@@ -64,7 +64,7 @@ I am a Python developer from Ukraine.
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vialaky)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vialaky&exclude_repo=*/data/*)](https://github.com/anuraghazra/github-readme-stats)
 
 [![User at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/vialaky.png)](https://www.codeabbey.com/index/user_profile/vialaky)
 
