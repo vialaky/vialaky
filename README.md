@@ -29,7 +29,7 @@
 
 
 ### I'm a 𝙋𝙮𝙩𝙝𝙤𝙣 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 specializing in *automation*, *web scraping* and *data extraction*. 
-Proficient in *BeautifulSoup*, *Scrapy*, *Requests* and *Pandas*, I specialize in creating efficient and robust scripts for scraping data from static and dynamic websites.  
+Proficient in *BeautifulSoup*, *Requests* and *Pandas*, I specialize in creating efficient and robust scripts for scraping data from static and dynamic websites.  
 My experience also includes solving complex scraping tasks on platforms like Codewars, CodeAbbey and HackerRank, providing clean and structured data output for business needs.  
 I am committed to providing high-quality solutions that meet your project requirements, whether it is market intelligence gathering, data collection automation, or API integration.
 
@@ -62,6 +62,7 @@ I am committed to providing high-quality solutions that meet your project requir
 ### :books: Packages and Libraries :
 - Beautiful Soup
 - Requests
+- Pandas
 
 
 ---
