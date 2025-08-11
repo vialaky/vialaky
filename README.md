@@ -28,13 +28,18 @@
 </div>
 
 
-I am a Python developer from Ukraine.
+### I'm a 𝙋𝙮𝙩𝙝𝙤𝙣 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 specializing in *automation*, *web scraping* and *data extraction*. 
+Proficient in *BeautifulSoup*, *Scrapy*, *Requests* and *Pandas*, I specialize in creating efficient and robust scripts for scraping data from static and dynamic websites.  
+My experience also includes solving complex scraping tasks on platforms like Codewars, CodeAbbey and HackerRank, providing clean and structured data output for business needs.  
+I am committed to providing high-quality solutions that meet your project requirements, whether it is market intelligence gathering, data collection automation, or API integration.
 
-- :telescope: I’m working in the civil service.
+### 𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣𝙖𝙡 𝘼𝙥𝙥𝙧𝙤𝙖𝙘𝙝:
+• Quick adaptation to new technologies and approaches  
+• Results-oriented with focus on code quality  
+• Ready to tackle challenging tasks  
+• Teamwork and effective communication  
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on CodeAbbey, CodeWars, HackerRank and read tech articles.
+#### 𝙊𝙥𝙚𝙣 to opportunities for remote work as a Python Developer where I can apply my skills and continue professional growth. Ready to participate in interesting projects. Open to internships and junior positions with development prospects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-nikolaiev/)
 
@@ -55,10 +60,8 @@ I am a Python developer from Ukraine.
 </div>
 
 ### :books: Packages and Libraries :
-- asyncio
 - Beautiful Soup
-- Folium
-- GeoPy
+- Requests
 
 
 ---
