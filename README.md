@@ -80,6 +80,6 @@ I strive to provide high-quality solutions that meet your project requirements, 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vialaky&exclude_repo=*/data/*)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 My Coding Achievements
-<div >
+<div>
 ![User at CodeWars banner](https://www.codewars.com/users/vialaky/badges/large) [![User at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/vialaky.png)](https://www.codeabbey.com/index/user_profile/vialaky)
 </div>
