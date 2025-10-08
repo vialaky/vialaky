@@ -81,8 +81,8 @@ I strive to provide high-quality solutions that meet your project requirements, 
 
 ## 🏆 My Coding Achievements
 
-[![User at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/vialaky.png)](https://www.codeabbey.com/index/user_profile/vialaky)
+![User at CodeWars banner](https://www.codewars.com/users/vialaky/badges/large) [![User at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/vialaky.png)](https://www.codeabbey.com/index/user_profile/vialaky)
 
-[![User at CodeWars banner](https://www.codewars.com/users/vialaky/badges/large)]
+
 
 
