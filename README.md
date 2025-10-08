@@ -39,10 +39,9 @@ I strive to provide high-quality solutions that meet your project requirements, 
 • Ready to tackle challenging tasks  
 • Teamwork and effective communication  
 
-<div style="text-align: center; margin: 20px 0;">
-  <a href="https://your-portfolio-website.com" style="text-decoration: none; display: inline-flex; align-items: center;">
-    <img src="https://img.shields.io/badge/-Portfolio-2ea44f?style=flat-square&logo=website&logoColor=white" alt="Portfolio" style="height: 40px; width: 120px; margin-right: 5px;">
-    <img src="https://img.shields.io/badge/-Visit%20My%20Works-2ea44f?style=flat-square" alt="Visit Works" style="height: 40px; width: 120px;">
+<div style="text-align: center;">
+  <a href="https://your-portfolio-website.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Works-brightgreen?style=for-the-badge&logo=website" alt="Portfolio">
   </a>
 </div>
 
