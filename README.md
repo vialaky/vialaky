@@ -85,9 +85,4 @@ I strive to provide high-quality solutions that meet your project requirements, 
 
 ![User at CodeWars banner](https://www.codewars.com/users/vialaky/badges/large)
 
-<div style="display: flex; gap: 10px;">
-  ![User at CodeWars banner](https://www.codewars.com/users/vialaky/badges/large)
-  [![User at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/vialaky.png)](https://www.codeabbey.com/index/user_profile/vialaky)
-
-</div>
 
