@@ -39,11 +39,11 @@ I strive to provide high-quality solutions that meet your project requirements, 
 • Ready to tackle challenging tasks  
 • Teamwork and effective communication  
 
-<p align="center">
+<div align="center">
   <a href="https://vialaky.github.io" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Works-brightgreen?style=for-the-badge&logo=website" alt="Portfolio">
 </a>
-</p>
+</div>
 
 #### 𝙊𝙥𝙚𝙣 to opportunities for remote work as a Python Developer where I can apply my skills and continue professional growth. Ready to participate in interesting projects. Open to internships and junior positions with development prospects.
 
