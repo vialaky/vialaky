@@ -27,17 +27,17 @@
 
 </div>
 
+### 𝙋𝙮𝙩𝙝𝙤𝙣 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 specializing in *web scraping* and *data extraction*
+Built 10+ practical scraping solutions across real estate, sports, healthcare/nutrition, and media domains, handling dynamic content, multi-page navigation, and structured output to CSV, JSON, and PostgreSQL.
+Before moving into software development, I spent many years in a high-precision technical field — a background that shaped how I approach problem-solving: methodically, with attention to detail and reliability.
+Currently expanding into more advanced scraping techniques (anti-bot handling, scheduled monitoring) and continuing to build out a growing portfolio of real-world projects.
 
-### I'm a 𝙋𝙮𝙩𝙝𝙤𝙣 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 specializing in *automation*, *web scraping* and *data extraction*. 
-Proficient in *BeautifulSoup*, *Playwright* and *Selenium*, I specialize in creating efficient and robust scripts for scraping data from static and dynamic websites.  
-My experience also includes solving complex scraping tasks on platforms like CodeWars, CodeAbbey and HackerRank, providing structured data output for business needs.  
-I strive to provide high-quality solutions that meet your project requirements, whether it is market intelligence gathering, data collection automation e.t.c.
-
-### 𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣𝙖𝙡 𝘼𝙥𝙥𝙧𝙤𝙖𝙘𝙝:
-• Quick adaptation to new technologies and approaches  
-• Results-oriented with focus on code quality  
-• Ready to tackle challenging tasks  
-• Teamwork and effective communication  
+### 𝙏𝙚𝙘𝙝𝙣𝙞𝙘𝙖𝙡 𝙎𝙠𝙞𝙡𝙡𝙨:
+• *Python* — OOP and functional programming  
+• *Playwright* / *Selenium* / *BeautifulSoup* / *Pandas* — web scraping and data processing  
+• *PostgreSQL* / *JSON* / *CSV* — data storage and structuring  
+• *HTML* / *CSS* — page layout basics  
+• *Git* — version control  
 
 <p align="center">
   <a href="https://vialaky.github.io" style="text-decoration: none;">
@@ -45,7 +45,9 @@ I strive to provide high-quality solutions that meet your project requirements, 
   </a>
 </p>
 
-#### 𝙊𝙥𝙚𝙣 to opportunities for remote work as a Python Developer where I can apply my skills and continue professional growth. Ready to participate in interesting projects. Open to internships and junior positions with development prospects.
+#### 𝙊𝙥𝙚𝙣 to freelance and contract work — happy to discuss scope and approach before starting.
+Remotely only.
+
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-nikolaiev/)
 
@@ -79,16 +81,7 @@ I strive to provide high-quality solutions that meet your project requirements, 
 
 - Beautiful Soup
 
-
 ---
-
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vialaky&exclude_repo=*/data/*)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🏆 My Coding Achievements :
-![User at CodeWars banner](https://www.codewars.com/users/vialaky/badges/large)    
-[![User at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/vialaky.png)](https://www.codeabbey.com/index/user_profile/vialaky)
 
 
 
